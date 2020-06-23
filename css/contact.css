@@ -71,6 +71,12 @@ body{
     border: 1px solid #333;
 }
 
+.btn:hover{
+    background: #FFFFFF;
+    color: #BD2F2F;
+    border: 1px solid #BD2F2F;
+}
+
 .send-button{
     height: 60px !important;
 }
